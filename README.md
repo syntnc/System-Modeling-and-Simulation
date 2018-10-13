@@ -4,13 +4,16 @@
 ![Language](https://img.shields.io/badge/language-Python3-brightgreen.svg) ![Editor](https://img.shields.io/badge/VS%20Code-1.25.1-blue.svg)
 
 ## Contents
-- [General Information](#general-information)
-    - [Language](#language)
-    - [Platform](#platform)
-    - [Operating System](#operating-system)
-    - [Usage](#usage)
-- [IIIT-A System Modeling and Simulation Course (ISIM 732 C)](#iiit-a-system-modeling-and-simulation-course-isim-732-c)
-    - [Lab Assignments](#lab-assignments)
+- [System Modeling and Simulation](#system-modeling-and-simulation)
+    - [Sayantan Chatterjee - Indian Institute of Information Technology, Allahabad (IIT 2015 511)](#sayantan-chatterjee---indian-institute-of-information-technology-allahabad-iit-2015-511)
+    - [Contents](#contents)
+    - [General Information](#general-information)
+        - [Language](#language)
+        - [Platform](#platform)
+        - [Operating System](#operating-system)
+        - [Usage](#usage)
+    - [IIIT-A System Modeling and Simulation Course (ISIM 732 C)](#iiit-a-system-modeling-and-simulation-course-isim-732-c)
+        - [Lab Assignments](#lab-assignments)
 
 ## General Information
 ### Language
@@ -65,4 +68,5 @@ Dependencies must be set up in an enviroment before using the project. Follow th
 * Every solution is properly documented using docstrings.
 
 ### Lab Assignments
-- [Single Queueing System](https://github.com/coderIlluminatus/System-Modeling-and-Simulation/tree/master/Lab%201)
+- [Lab 1: Single Queueing System of a Bank](https://github.com/coderIlluminatus/System-Modeling-and-Simulation/tree/master/Lab%201)
+- [Lab 2: Multiple Counter Queueing System of a Library](https://github.com/coderIlluminatus/System-Modeling-and-Simulation/tree/master/Lab%202)

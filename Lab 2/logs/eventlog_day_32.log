@@ -1,0 +1,773 @@
+Student 1 arrived at 08:00 AM and started service at 08:00 AM in counter 1
+Student 1 departed at 08:01 AM
+
+Counters were idle for 4 min, total idle time = 4 min
+
+Student 2 arrived at 08:05 AM and started service at 08:05 AM in counter 1
+Student 2 departed at 08:10 AM
+
+Counters were idle for 9 min, total idle time = 13 min
+
+Student 3 arrived at 08:19 AM and started service at 08:19 AM in counter 1
+Student 3 departed at 08:24 AM
+
+Counters were idle for 1 min, total idle time = 14 min
+
+Student 4 arrived at 08:25 AM and started service at 08:25 AM in counter 1
+Student 5 arrived at 08:26 AM and started service at 08:26 AM in counter 2
+Student 4 departed at 08:29 AM
+Student 5 departed at 08:29 AM
+
+Counters were idle for 4 min, total idle time = 18 min
+
+Student 6 arrived at 08:33 AM and started service at 08:33 AM in counter 1
+Student 7 arrived at 08:35 AM and started service at 08:35 AM in counter 2
+Student 7 departed at 08:36 AM
+
+Counters were idle for 1 min, total idle time = 19 min
+
+Student 8 arrived at 08:37 AM and started service at 08:37 AM in counter 2
+Student 6 departed at 08:38 AM
+Student 8 departed at 08:38 AM
+
+Counters were idle for 8 min, total idle time = 27 min
+
+Student 9 arrived at 08:46 AM and started service at 08:46 AM in counter 1
+Student 9 departed at 08:50 AM
+
+Counters were idle for 1 min, total idle time = 28 min
+
+Student 10 arrived at 08:51 AM and started service at 08:51 AM in counter 1
+Student 10 departed at 08:56 AM
+
+Counters were idle for 6 min, total idle time = 34 min
+
+Student 11 arrived at 09:02 AM and started service at 09:02 AM in counter 1
+Student 11 departed at 09:04 AM
+
+Counters were idle for 4 min, total idle time = 38 min
+
+Student 12 arrived at 09:08 AM and started service at 09:08 AM in counter 1
+Student 12 departed at 09:10 AM
+
+Counters were idle for 11 min, total idle time = 49 min
+
+Student 13 arrived at 09:21 AM and started service at 09:21 AM in counter 1
+Student 13 departed at 09:25 AM
+
+Counters were idle for 7 min, total idle time = 56 min
+
+Student 14 arrived at 09:32 AM and started service at 09:32 AM in counter 1
+Student 15 arrived at 09:34 AM and started service at 09:34 AM in counter 2
+Student 15 departed at 09:36 AM
+
+Counters were idle for 1 min, total idle time = 57 min
+
+Student 14 departed at 09:37 AM
+Student 16 arrived at 09:37 AM and started service at 09:37 AM in counter 1
+
+Counters were idle for 4 min, total idle time = 61 min
+
+Student 17 arrived at 09:41 AM and started service at 09:41 AM in counter 2
+Student 16 departed at 09:41 AM
+
+Counters were idle for 3 min, total idle time = 64 min
+
+Student 18 arrived at 09:44 AM and started service at 09:44 AM in counter 2
+Student 17 departed at 09:44 AM
+Student 18 departed at 09:45 AM
+
+Counters were idle for 8 min, total idle time = 72 min
+
+Student 19 arrived at 09:53 AM and started service at 09:53 AM in counter 1
+Student 19 departed at 09:57 AM
+
+Counters were idle for 15 min, total idle time = 87 min
+
+Student 20 arrived at 10:12 AM and started service at 10:12 AM in counter 1
+Student 21 arrived at 10:14 AM and started service at 10:14 AM in counter 2
+Student 20 departed at 10:17 AM
+Student 21 departed at 10:17 AM
+Student 22 arrived at 10:16 AM and started service at 10:17 AM in counter 1
+Student 22 departed at 10:21 AM
+
+Counters were idle for 1 min, total idle time = 88 min
+
+Student 23 arrived at 10:22 AM and started service at 10:22 AM in counter 1
+Student 23 departed at 10:24 AM
+
+Counters were idle for 2 min, total idle time = 90 min
+
+Student 24 arrived at 10:26 AM and started service at 10:26 AM in counter 1
+Student 24 departed at 10:28 AM
+
+Counters were idle for 8 min, total idle time = 98 min
+
+Student 25 arrived at 10:36 AM and started service at 10:36 AM in counter 1
+Student 26 arrived at 10:37 AM and started service at 10:37 AM in counter 2
+Student 25 departed at 10:40 AM
+Student 27 arrived at 10:40 AM and started service at 10:40 AM in counter 2
+
+Counters were idle for 1 min, total idle time = 99 min
+
+Student 26 departed at 10:42 AM
+Student 28 arrived at 10:41 AM and started service at 10:42 AM in counter 2
+
+Counters were idle for 2 min, total idle time = 101 min
+
+Student 28 departed at 10:44 AM
+Student 29 arrived at 10:44 AM and started service at 10:44 AM in counter 2
+Student 27 departed at 10:45 AM
+Student 29 departed at 10:45 AM
+
+Counters were idle for 4 min, total idle time = 105 min
+
+Student 30 arrived at 10:49 AM and started service at 10:49 AM in counter 1
+Student 31 arrived at 10:50 AM and started service at 10:50 AM in counter 2
+Student 30 departed at 10:51 AM
+
+Counters were idle for 1 min, total idle time = 106 min
+
+Student 32 arrived at 10:52 AM and started service at 10:52 AM in counter 2
+Student 31 departed at 10:53 AM
+
+Counters were idle for 2 min, total idle time = 108 min
+
+Student 33 arrived at 10:55 AM and started service at 10:55 AM in counter 2
+Student 32 departed at 10:56 AM
+Student 33 departed at 10:56 AM
+
+Counters were idle for 1 min, total idle time = 109 min
+
+Student 34 arrived at 10:57 AM and started service at 10:57 AM in counter 1
+Student 34 departed at 10:58 AM
+
+Counters were idle for 1 min, total idle time = 110 min
+
+Student 35 arrived at 10:59 AM and started service at 10:59 AM in counter 1
+Student 36 arrived at 11:00 AM and started service at 11:00 AM in counter 2
+Student 36 departed at 11:02 AM
+Student 37 arrived at 11:02 AM and started service at 11:02 AM in counter 2
+Student 35 departed at 11:03 AM
+
+Counters were idle for 1 min, total idle time = 111 min
+
+Student 38 arrived at 11:04 AM and started service at 11:04 AM in counter 2
+Student 37 departed at 11:05 AM
+
+Counters were idle for 1 min, total idle time = 112 min
+
+Student 39 arrived at 11:06 AM and started service at 11:06 AM in counter 2
+Student 38 departed at 11:06 AM
+
+Counters were idle for 2 min, total idle time = 114 min
+
+Student 40 arrived at 11:08 AM and started service at 11:08 AM in counter 2
+Student 40 departed at 11:09 AM
+
+Counters were idle for 1 min, total idle time = 115 min
+
+Student 41 arrived at 11:10 AM and started service at 11:10 AM in counter 2
+Student 39 departed at 11:11 AM
+Student 41 departed at 11:13 AM
+
+Counters were idle for 2 min, total idle time = 117 min
+
+Student 42 arrived at 11:15 AM and started service at 11:15 AM in counter 1
+Student 42 departed at 11:17 AM
+
+Counters were idle for 1 min, total idle time = 118 min
+
+Student 43 arrived at 11:18 AM and started service at 11:18 AM in counter 1
+Student 43 departed at 11:20 AM
+
+Counters were idle for 6 min, total idle time = 124 min
+
+Student 44 arrived at 11:26 AM and started service at 11:26 AM in counter 1
+Student 45 arrived at 11:27 AM and started service at 11:27 AM in counter 2
+Student 44 departed at 11:30 AM
+Student 45 departed at 11:32 AM
+
+Counters were idle for 12 min, total idle time = 136 min
+
+Student 46 arrived at 11:44 AM and started service at 11:44 AM in counter 1
+Student 46 departed at 11:49 AM
+
+Counters were idle for 3 min, total idle time = 139 min
+
+Student 47 arrived at 11:52 AM and started service at 11:52 AM in counter 1
+Student 48 arrived at 11:53 AM and started service at 11:53 AM in counter 2
+Student 47 departed at 11:53 AM
+
+Counters were idle for 3 min, total idle time = 142 min
+
+Student 49 arrived at 11:56 AM and started service at 11:56 AM in counter 2
+Student 48 departed at 11:58 AM
+Student 50 arrived at 11:57 AM and started service at 11:58 AM in counter 2
+Student 49 departed at 12:00 PM
+Student 50 departed at 12:00 PM
+
+Counters were idle for 3 min, total idle time = 145 min
+
+Student 51 arrived at 12:03 PM and started service at 12:03 PM in counter 1
+Student 52 arrived at 12:04 PM and started service at 12:04 PM in counter 2
+Student 51 departed at 12:08 PM
+Student 52 departed at 12:08 PM
+Student 53 arrived at 12:05 PM and started service at 12:08 PM in counter 2
+Student 54 arrived at 12:06 PM and started service at 12:08 PM in counter 2
+
+Counters were idle for 1 min, total idle time = 146 min
+
+Student 54 departed at 12:10 PM
+Student 55 arrived at 12:08 PM and started service at 12:10 PM in counter 2
+
+Counters were idle for 1 min, total idle time = 147 min
+
+Student 53 departed at 12:12 PM
+Student 56 arrived at 12:09 PM and started service at 12:12 PM in counter 2
+
+Counters were idle for 1 min, total idle time = 148 min
+
+Student 55 departed at 12:15 PM
+Student 56 departed at 12:15 PM
+Student 57 arrived at 12:11 PM and started service at 12:15 PM in counter 2
+Student 58 arrived at 12:13 PM and started service at 12:15 PM in counter 2
+
+Counters were idle for 1 min, total idle time = 149 min
+
+Student 57 departed at 12:19 PM
+Student 59 arrived at 12:15 PM and started service at 12:19 PM in counter 2
+Student 58 departed at 12:20 PM
+Student 60 arrived at 12:16 PM and started service at 12:20 PM in counter 2
+Student 60 departed at 12:23 PM
+Student 61 arrived at 12:17 PM and started service at 12:23 PM in counter 2
+Student 59 departed at 12:24 PM
+Student 62 arrived at 12:19 PM and started service at 12:24 PM in counter 2
+
+Counters were idle for 1 min, total idle time = 150 min
+
+Student 61 departed at 12:25 PM
+Student 63 arrived at 12:25 PM and started service at 12:25 PM in counter 2
+
+Counters were idle for 2 min, total idle time = 152 min
+
+Student 62 departed at 12:27 PM
+Student 64 arrived at 12:27 PM and started service at 12:27 PM in counter 2
+Student 63 departed at 12:28 PM
+Student 64 departed at 12:31 PM
+
+Counters were idle for 5 min, total idle time = 157 min
+
+Student 65 arrived at 12:36 PM and started service at 12:36 PM in counter 1
+Student 66 arrived at 12:38 PM and started service at 12:38 PM in counter 2
+Student 65 departed at 12:38 PM
+
+Counters were idle for 3 min, total idle time = 160 min
+
+Student 67 arrived at 12:41 PM and started service at 12:41 PM in counter 2
+Student 66 departed at 12:41 PM
+
+Counters were idle for 1 min, total idle time = 161 min
+
+Student 68 arrived at 12:42 PM and started service at 12:42 PM in counter 2
+Student 68 departed at 12:45 PM
+Student 69 arrived at 12:43 PM and started service at 12:45 PM in counter 2
+
+Counters were idle for 1 min, total idle time = 162 min
+
+Student 67 departed at 12:46 PM
+Student 70 arrived at 12:44 PM and started service at 12:46 PM in counter 2
+Student 69 departed at 12:47 PM
+Student 71 arrived at 12:46 PM and started service at 12:47 PM in counter 2
+Student 70 departed at 12:48 PM
+
+Counters were idle for 3 min, total idle time = 165 min
+
+Student 72 arrived at 12:51 PM and started service at 12:51 PM in counter 2
+Student 71 departed at 12:51 PM
+
+Counters were idle for 2 min, total idle time = 167 min
+
+Student 73 arrived at 12:53 PM and started service at 12:53 PM in counter 2
+Student 72 departed at 12:53 PM
+
+Counters were idle for 1 min, total idle time = 168 min
+
+Student 74 arrived at 12:54 PM and started service at 12:54 PM in counter 2
+Student 73 departed at 12:54 PM
+
+Counters were idle for 1 min, total idle time = 169 min
+
+Student 75 arrived at 12:55 PM and started service at 12:55 PM in counter 2
+Student 74 departed at 12:58 PM
+Student 75 departed at 12:58 PM
+Student 76 arrived at 12:56 PM and started service at 12:58 PM in counter 1
+
+Counters were idle for 1 min, total idle time = 170 min
+
+Student 77 arrived at 12:59 PM and started service at 12:59 PM in counter 2
+Student 76 departed at 01:00 PM
+Student 78 arrived at 01:00 PM and started service at 01:00 PM in counter 2
+
+Counters were idle for 1 min, total idle time = 171 min
+
+Student 78 departed at 01:01 PM
+Student 79 arrived at 01:01 PM and started service at 01:01 PM in counter 2
+
+Counters were idle for 1 min, total idle time = 172 min
+
+Student 77 departed at 01:02 PM
+Student 80 arrived at 01:02 PM and started service at 01:02 PM in counter 2
+
+Counters were idle for 1 min, total idle time = 173 min
+
+Student 79 departed at 01:05 PM
+Student 81 arrived at 01:03 PM and started service at 01:05 PM in counter 2
+
+Counters were idle for 1 min, total idle time = 174 min
+
+Student 80 departed at 01:06 PM
+Student 82 arrived at 01:04 PM and started service at 01:06 PM in counter 2
+
+Counters were idle for 1 min, total idle time = 175 min
+
+Student 81 departed at 01:08 PM
+Student 82 departed at 01:08 PM
+Student 83 arrived at 01:05 PM and started service at 01:08 PM in counter 2
+Student 84 arrived at 01:06 PM and started service at 01:08 PM in counter 2
+Student 84 departed at 01:09 PM
+Student 85 arrived at 01:07 PM and started service at 01:09 PM in counter 2
+
+Counters were idle for 2 min, total idle time = 177 min
+
+Student 83 departed at 01:11 PM
+Student 86 arrived at 01:11 PM and started service at 01:11 PM in counter 2
+
+Counters were idle for 1 min, total idle time = 178 min
+
+Student 85 departed at 01:14 PM
+Student 87 arrived at 01:12 PM and started service at 01:14 PM in counter 2
+Student 87 departed at 01:15 PM
+Student 86 departed at 01:16 PM
+
+Counters were idle for 1 min, total idle time = 179 min
+
+Student 88 arrived at 01:17 PM and started service at 01:17 PM in counter 1
+Student 89 arrived at 01:19 PM and started service at 01:19 PM in counter 2
+Student 88 departed at 01:22 PM
+Student 90 arrived at 01:20 PM and started service at 01:22 PM in counter 2
+Student 89 departed at 01:23 PM
+Student 91 arrived at 01:21 PM and started service at 01:23 PM in counter 2
+
+Counters were idle for 2 min, total idle time = 181 min
+
+Student 90 departed at 01:25 PM
+Student 92 arrived at 01:22 PM and started service at 01:25 PM in counter 2
+
+Counters were idle for 1 min, total idle time = 182 min
+
+Student 92 departed at 01:26 PM
+Student 93 arrived at 01:25 PM and started service at 01:26 PM in counter 2
+Student 91 departed at 01:27 PM
+Student 94 arrived at 01:26 PM and started service at 01:27 PM in counter 2
+
+Counters were idle for 1 min, total idle time = 183 min
+
+Student 94 departed at 01:29 PM
+Student 95 arrived at 01:28 PM and started service at 01:29 PM in counter 2
+Student 93 departed at 01:30 PM
+Student 95 departed at 01:30 PM
+Student 96 arrived at 01:29 PM and started service at 01:30 PM in counter 1
+
+Counters were idle for 2 min, total idle time = 185 min
+
+Student 97 arrived at 01:32 PM and started service at 01:32 PM in counter 2
+Student 97 departed at 01:34 PM
+Student 98 arrived at 01:33 PM and started service at 01:34 PM in counter 2
+
+Counters were idle for 1 min, total idle time = 186 min
+
+Student 96 departed at 01:35 PM
+Student 99 arrived at 01:35 PM and started service at 01:35 PM in counter 2
+
+Counters were idle for 1 min, total idle time = 187 min
+
+Student 98 departed at 01:38 PM
+Student 100 arrived at 01:36 PM and started service at 01:38 PM in counter 2
+Student 99 departed at 01:40 PM
+Student 100 departed at 01:41 PM
+
+Counters were idle for 2 min, total idle time = 189 min
+
+Student 101 arrived at 01:43 PM and started service at 01:43 PM in counter 1
+Student 102 arrived at 01:46 PM and started service at 01:46 PM in counter 2
+Student 101 departed at 01:47 PM
+Student 102 departed at 01:47 PM
+
+Counters were idle for 1 min, total idle time = 190 min
+
+Student 103 arrived at 01:48 PM and started service at 01:48 PM in counter 1
+Student 104 arrived at 01:51 PM and started service at 01:51 PM in counter 2
+Student 103 departed at 01:51 PM
+
+Counters were idle for 1 min, total idle time = 191 min
+
+Student 105 arrived at 01:52 PM and started service at 01:52 PM in counter 2
+Student 104 departed at 01:54 PM
+Student 105 departed at 01:55 PM
+
+Counters were idle for 1 min, total idle time = 192 min
+
+Student 106 arrived at 01:56 PM and started service at 01:56 PM in counter 1
+Student 107 arrived at 01:58 PM and started service at 01:58 PM in counter 2
+Student 106 departed at 02:01 PM
+Student 108 arrived at 01:59 PM and started service at 02:01 PM in counter 2
+
+Counters were idle for 2 min, total idle time = 194 min
+
+Student 107 departed at 02:03 PM
+Student 108 departed at 02:03 PM
+Student 109 arrived at 02:01 PM and started service at 02:03 PM in counter 2
+Student 110 arrived at 02:03 PM and started service at 02:03 PM in counter 2
+
+Counters were idle for 1 min, total idle time = 195 min
+
+Student 109 departed at 02:07 PM
+Student 111 arrived at 02:04 PM and started service at 02:07 PM in counter 2
+Student 110 departed at 02:08 PM
+Student 112 arrived at 02:05 PM and started service at 02:08 PM in counter 2
+Student 112 departed at 02:09 PM
+Student 113 arrived at 02:07 PM and started service at 02:09 PM in counter 2
+
+Counters were idle for 1 min, total idle time = 196 min
+
+Student 111 departed at 02:12 PM
+Student 113 departed at 02:12 PM
+Student 114 arrived at 02:10 PM and started service at 02:12 PM in counter 2
+Student 115 arrived at 02:11 PM and started service at 02:12 PM in counter 2
+
+Counters were idle for 4 min, total idle time = 200 min
+
+Student 114 departed at 02:17 PM
+Student 115 departed at 02:17 PM
+Student 116 arrived at 02:12 PM and started service at 02:17 PM in counter 2
+Student 117 arrived at 02:16 PM and started service at 02:17 PM in counter 2
+Student 116 departed at 02:19 PM
+Student 118 arrived at 02:17 PM and started service at 02:19 PM in counter 2
+Student 118 departed at 02:20 PM
+Student 117 departed at 02:21 PM
+
+Counters were idle for 2 min, total idle time = 202 min
+
+Student 119 arrived at 02:23 PM and started service at 02:23 PM in counter 1
+Student 119 departed at 02:25 PM
+
+Counters were idle for 6 min, total idle time = 208 min
+
+Student 120 arrived at 02:31 PM and started service at 02:31 PM in counter 1
+Student 121 arrived at 02:34 PM and started service at 02:34 PM in counter 2
+Student 120 departed at 02:34 PM
+Student 121 departed at 02:38 PM
+
+Counters were idle for 8 min, total idle time = 216 min
+
+Student 122 arrived at 02:46 PM and started service at 02:46 PM in counter 1
+Student 122 departed at 02:48 PM
+
+Counters were idle for 4 min, total idle time = 220 min
+
+Student 123 arrived at 02:52 PM and started service at 02:52 PM in counter 1
+Student 123 departed at 02:53 PM
+
+Counters were idle for 3 min, total idle time = 223 min
+
+Student 124 arrived at 02:56 PM and started service at 02:56 PM in counter 1
+Student 125 arrived at 02:59 PM and started service at 02:59 PM in counter 2
+Student 124 departed at 03:00 PM
+Student 126 arrived at 03:00 PM and started service at 03:00 PM in counter 2
+Student 125 departed at 03:03 PM
+Student 126 departed at 03:03 PM
+
+Counters were idle for 3 min, total idle time = 226 min
+
+Student 127 arrived at 03:06 PM and started service at 03:06 PM in counter 1
+Student 127 departed at 03:09 PM
+
+Counters were idle for 2 min, total idle time = 228 min
+
+Student 128 arrived at 03:11 PM and started service at 03:11 PM in counter 1
+Student 128 departed at 03:13 PM
+
+Counters were idle for 2 min, total idle time = 230 min
+
+Student 129 arrived at 03:15 PM and started service at 03:15 PM in counter 1
+Student 130 arrived at 03:16 PM and started service at 03:16 PM in counter 2
+Student 129 departed at 03:20 PM
+Student 131 arrived at 03:18 PM and started service at 03:20 PM in counter 2
+Student 130 departed at 03:21 PM
+
+Counters were idle for 1 min, total idle time = 231 min
+
+Student 132 arrived at 03:22 PM and started service at 03:22 PM in counter 2
+Student 131 departed at 03:23 PM
+
+Counters were idle for 4 min, total idle time = 235 min
+
+Student 133 arrived at 03:27 PM and started service at 03:27 PM in counter 2
+Student 132 departed at 03:27 PM
+
+Counters were idle for 4 min, total idle time = 239 min
+
+Student 134 arrived at 03:31 PM and started service at 03:31 PM in counter 2
+Student 133 departed at 03:32 PM
+Student 135 arrived at 03:32 PM and started service at 03:32 PM in counter 2
+Student 134 departed at 03:34 PM
+Student 135 departed at 03:35 PM
+
+Counters were idle for 1 min, total idle time = 240 min
+
+Student 136 arrived at 03:36 PM and started service at 03:36 PM in counter 1
+Student 137 arrived at 03:37 PM and started service at 03:37 PM in counter 2
+Student 136 departed at 03:40 PM
+Student 138 arrived at 03:39 PM and started service at 03:40 PM in counter 2
+Student 137 departed at 03:41 PM
+Student 138 departed at 03:41 PM
+
+Counters were idle for 6 min, total idle time = 246 min
+
+Student 139 arrived at 03:47 PM and started service at 03:47 PM in counter 1
+Student 140 arrived at 03:48 PM and started service at 03:48 PM in counter 2
+Student 139 departed at 03:51 PM
+Student 140 departed at 03:51 PM
+Student 141 arrived at 03:49 PM and started service at 03:51 PM in counter 2
+Student 142 arrived at 03:50 PM and started service at 03:51 PM in counter 2
+Student 141 departed at 03:52 PM
+Student 143 arrived at 03:51 PM and started service at 03:52 PM in counter 2
+
+Counters were idle for 1 min, total idle time = 247 min
+
+Student 142 departed at 03:56 PM
+Student 143 departed at 03:56 PM
+Student 144 arrived at 03:53 PM and started service at 03:56 PM in counter 1
+
+Counters were idle for 1 min, total idle time = 248 min
+
+Student 145 arrived at 03:57 PM and started service at 03:57 PM in counter 2
+Student 144 departed at 03:59 PM
+Student 146 arrived at 03:58 PM and started service at 03:59 PM in counter 2
+Student 145 departed at 04:01 PM
+Student 146 departed at 04:02 PM
+
+Counters were idle for 1 min, total idle time = 249 min
+
+Student 147 arrived at 04:03 PM and started service at 04:03 PM in counter 1
+Student 148 arrived at 04:06 PM and started service at 04:06 PM in counter 2
+Student 147 departed at 04:07 PM
+
+Counters were idle for 2 min, total idle time = 251 min
+
+Student 149 arrived at 04:09 PM and started service at 04:09 PM in counter 2
+Student 148 departed at 04:11 PM
+Student 149 departed at 04:12 PM
+
+Counters were idle for 5 min, total idle time = 256 min
+
+Student 150 arrived at 04:17 PM and started service at 04:17 PM in counter 1
+Student 150 departed at 04:19 PM
+
+Counters were idle for 1 min, total idle time = 257 min
+
+Student 151 arrived at 04:20 PM and started service at 04:20 PM in counter 1
+Student 152 arrived at 04:23 PM and started service at 04:23 PM in counter 2
+Student 152 departed at 04:24 PM
+Student 151 departed at 04:25 PM
+
+Counters were idle for 2 min, total idle time = 259 min
+
+Student 153 arrived at 04:27 PM and started service at 04:27 PM in counter 1
+Student 153 departed at 04:28 PM
+
+Counters were idle for 4 min, total idle time = 263 min
+
+Student 154 arrived at 04:32 PM and started service at 04:32 PM in counter 1
+Student 154 departed at 04:36 PM
+
+Counters were idle for 6 min, total idle time = 269 min
+
+Student 155 arrived at 04:42 PM and started service at 04:42 PM in counter 1
+Student 156 arrived at 04:44 PM and started service at 04:44 PM in counter 2
+Student 155 departed at 04:45 PM
+
+Counters were idle for 3 min, total idle time = 272 min
+
+Student 157 arrived at 04:48 PM and started service at 04:48 PM in counter 2
+Student 156 departed at 04:48 PM
+
+Counters were idle for 3 min, total idle time = 275 min
+
+Student 158 arrived at 04:51 PM and started service at 04:51 PM in counter 2
+Student 157 departed at 04:52 PM
+Student 159 arrived at 04:52 PM and started service at 04:52 PM in counter 2
+Student 158 departed at 04:53 PM
+
+Counters were idle for 1 min, total idle time = 276 min
+
+Student 160 arrived at 04:54 PM and started service at 04:54 PM in counter 2
+Student 159 departed at 04:55 PM
+Student 161 arrived at 04:55 PM and started service at 04:55 PM in counter 2
+Student 160 departed at 04:57 PM
+Student 161 departed at 04:59 PM
+
+Counters were idle for 3 min, total idle time = 279 min
+
+Student 162 arrived at 05:02 PM and started service at 05:02 PM in counter 1
+Student 162 departed at 05:03 PM
+
+Counters were idle for 7 min, total idle time = 286 min
+
+Student 163 arrived at 05:10 PM and started service at 05:10 PM in counter 1
+Student 163 departed at 05:11 PM
+
+Counters were idle for 9 min, total idle time = 295 min
+
+Student 164 arrived at 05:20 PM and started service at 05:20 PM in counter 1
+Student 164 departed at 05:24 PM
+
+Counters were idle for 1 min, total idle time = 296 min
+
+Student 165 arrived at 05:25 PM and started service at 05:25 PM in counter 1
+Student 166 arrived at 05:27 PM and started service at 05:27 PM in counter 2
+Student 165 departed at 05:28 PM
+
+Counters were idle for 3 min, total idle time = 299 min
+
+Student 167 arrived at 05:31 PM and started service at 05:31 PM in counter 2
+Student 166 departed at 05:31 PM
+Student 167 departed at 05:35 PM
+
+Counters were idle for 3 min, total idle time = 302 min
+
+Student 168 arrived at 05:38 PM and started service at 05:38 PM in counter 1
+Student 168 departed at 05:39 PM
+
+Counters were idle for 4 min, total idle time = 306 min
+
+Student 169 arrived at 05:43 PM and started service at 05:43 PM in counter 1
+Student 170 arrived at 05:45 PM and started service at 05:45 PM in counter 2
+Student 169 departed at 05:45 PM
+Student 170 departed at 05:46 PM
+
+Counters were idle for 3 min, total idle time = 309 min
+
+Student 171 arrived at 05:49 PM and started service at 05:49 PM in counter 1
+Student 172 arrived at 05:50 PM and started service at 05:50 PM in counter 2
+Student 171 departed at 05:53 PM
+Student 172 departed at 05:55 PM
+
+Counters were idle for 3 min, total idle time = 312 min
+
+Student 173 arrived at 05:58 PM and started service at 05:58 PM in counter 1
+Student 174 arrived at 06:01 PM and started service at 06:01 PM in counter 2
+Student 173 departed at 06:01 PM
+Student 174 departed at 06:02 PM
+
+Counters were idle for 11 min, total idle time = 323 min
+
+Student 175 arrived at 06:13 PM and started service at 06:13 PM in counter 1
+Student 176 arrived at 06:18 PM and started service at 06:18 PM in counter 2
+Student 175 departed at 06:18 PM
+Student 176 departed at 06:21 PM
+
+Counters were idle for 3 min, total idle time = 326 min
+
+Student 177 arrived at 06:24 PM and started service at 06:24 PM in counter 1
+Student 178 arrived at 06:26 PM and started service at 06:26 PM in counter 2
+Student 177 departed at 06:27 PM
+
+Counters were idle for 2 min, total idle time = 328 min
+
+Student 179 arrived at 06:29 PM and started service at 06:29 PM in counter 2
+Student 178 departed at 06:30 PM
+Student 179 departed at 06:32 PM
+
+Counters were idle for 17 min, total idle time = 345 min
+
+Student 180 arrived at 06:49 PM and started service at 06:49 PM in counter 1
+Student 180 departed at 06:53 PM
+
+Counters were idle for 3 min, total idle time = 348 min
+
+Student 181 arrived at 06:56 PM and started service at 06:56 PM in counter 1
+Student 181 departed at 06:58 PM
+
+Counters were idle for 1 min, total idle time = 349 min
+
+Student 182 arrived at 06:59 PM and started service at 06:59 PM in counter 1
+Student 182 departed at 07:01 PM
+
+Counters were idle for 10 min, total idle time = 359 min
+
+Student 183 arrived at 07:11 PM and started service at 07:11 PM in counter 1
+Student 183 departed at 07:13 PM
+
+Counters were idle for 5 min, total idle time = 364 min
+
+Student 184 arrived at 07:18 PM and started service at 07:18 PM in counter 1
+Student 185 arrived at 07:19 PM and started service at 07:19 PM in counter 2
+Student 184 departed at 07:19 PM
+Student 185 departed at 07:24 PM
+
+Counters were idle for 2 min, total idle time = 366 min
+
+Student 186 arrived at 07:26 PM and started service at 07:26 PM in counter 1
+Student 186 departed at 07:28 PM
+
+Counters were idle for 9 min, total idle time = 375 min
+
+Student 187 arrived at 07:37 PM and started service at 07:37 PM in counter 1
+Student 188 arrived at 07:39 PM and started service at 07:39 PM in counter 2
+Student 188 departed at 07:40 PM
+
+Counters were idle for 1 min, total idle time = 376 min
+
+Student 187 departed at 07:41 PM
+Student 189 arrived at 07:41 PM and started service at 07:41 PM in counter 1
+Student 189 departed at 07:42 PM
+
+Counters were idle for 1 min, total idle time = 377 min
+
+Student 190 arrived at 07:43 PM and started service at 07:43 PM in counter 1
+Student 191 arrived at 07:45 PM and started service at 07:45 PM in counter 2
+Student 190 departed at 07:47 PM
+Student 191 departed at 07:47 PM
+
+Counters were idle for 3 min, total idle time = 380 min
+
+Student 192 arrived at 07:50 PM and started service at 07:50 PM in counter 1
+Student 192 departed at 07:52 PM
+
+Counters were idle for 1 min, total idle time = 381 min
+
+Student 193 arrived at 07:53 PM and started service at 07:53 PM in counter 1
+Student 194 arrived at 07:54 PM and started service at 07:54 PM in counter 2
+Student 193 departed at 07:54 PM
+Student 194 departed at 07:55 PM
+
+Counters were idle for 2 min, total idle time = 383 min
+
+Student 195 arrived at 07:57 PM and started service at 07:57 PM in counter 1
+Student 196 arrived at 08:00 PM and started service at 08:00 PM in counter 2
+Student 195 departed at 08:00 PM
+Student 196 departed at 08:04 PM
+
+Counters were idle for 34 min, total idle time = 417 min
+
+Student 197 arrived at 08:38 PM and started service at 08:38 PM in counter 1
+Student 197 departed at 08:40 PM
+
+Counters were idle for 21 min, total idle time = 438 min
+
+Student 198 arrived at 09:01 PM and started service at 09:01 PM in counter 1
+Student 199 arrived at 09:02 PM and started service at 09:02 PM in counter 2
+Student 198 departed at 09:06 PM
+Student 199 departed at 09:06 PM
